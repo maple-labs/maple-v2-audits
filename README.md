@@ -14,5 +14,5 @@
 
 | Auditor | Report Link |
 |---|---|
-| Spearbit | `2022-05-16 - Spearbit Report Pending` |
+| Cantina | [`2023-06-05 - Cantina Report`](https://docs.google.com/viewer?url=https://github.com/maple-labs/maple-v2-audits/files/11667848/cantina-maple.pdf) |
 | Three Sigma | [`2023-04-10 - Three Sigma Report`](https://docs.google.com/viewer?url=https://github.com/maple-labs/maple-v2-audits/files/11663546/maple-v2-audit_three-sigma_2023.pdf) |
